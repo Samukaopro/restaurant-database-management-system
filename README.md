@@ -106,7 +106,7 @@ restaurant-database-management-system/
 ├── docs/                              # Documentation
 │   ├── ERD/
 │   │   └── RestaurantDB-ERD.png       # Entity-Relationship Diagram
-│   └── RevenueReport.PractI.YanamadalaB.pdf
+│   
 │
 ├── scripts/                           # R Scripts
 │   ├── createDB.PractI.YanamadalaB.R          # Creates database schema
@@ -116,8 +116,15 @@ restaurant-database-management-system/
 │   └── configBusinessLogic.PractI.YanamadalaB.R # Stored procedures
 │
 └── notebooks/                         # R Markdown Notebooks
-    ├── designDBSchema.PractI.YanamadalaB.Rmd  # Normalization documentation
-    └── RevenueReport.PractI.YanamadalaB.Rmd   # Analytics report
+|    ├── designDBSchema.PractI.YanamadalaB.Rmd  # Normalization documentation
+|    └── RevenueReport.PractI.YanamadalaB.Rmd   # Analytics report
+|
+|
+└── outputs/
+    ├── sample_reports/
+              └── RevenueReport.PractI.YanamadalaB.pdf
+              └── designDBSchema.PractI.YanamadalaB.pdf
+
 ```
 
 ## Installation & Setup
