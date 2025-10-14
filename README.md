@@ -6,7 +6,7 @@
 
 A comprehensive normalized relational database system for analyzing restaurant visits, revenue, and sales transactions. Built as part of CS5200 Database Management Systems coursework at Northeastern University.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Key Features](#key-features)
